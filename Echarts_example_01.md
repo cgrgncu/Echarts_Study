@@ -1,3 +1,6 @@
+# 基礎模板
++ 請Chatgpt幫忙製作的
+
 ```html
 <!DOCTYPE html>
 <html lang="zh-TW" style="margin: 0;padding: 0;height: 100%;overflow: hidden;">
